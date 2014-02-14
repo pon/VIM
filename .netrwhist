@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/peternagel/workspace/lob/lob-test'
+let g:netrw_dirhist_2='/Users/peternagel/workspace/lob/chef/cookbooks/vagrant_main'
+let g:netrw_dirhist_3='/Users/peternagel/workspace/lob/chef/cookbooks/vagrant_main/recipes'
+let g:netrw_dirhist_4='/Users/peternagel/workspace/lob/lob-pm'
+let g:netrw_dirhist_5='/Users/peternagel/workspace/lob/lob-pm/app'
+let g:netrw_dirhist_6='/Users/peternagel/workspace/lob/lob-pm/app/collections'
+let g:netrw_dirhist_7='/Users/peternagel/workspace/MAMP/lob'
+let g:netrw_dirhist_8='/Users/peternagel/.juju/environments'
