@@ -19,9 +19,6 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
-[submodule "bundle/--force"]
-	path = bundle/--force
-	url = https://github.com/majutsushi/tagbar.git
 [submodule "bundle/taskpaper.vim"]
 	path = bundle/taskpaper.vim
 	url = https://github.com/davidoc/taskpaper.vim.git
