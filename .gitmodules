@@ -49,3 +49,6 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/jshint.vim"]
+	path = bundle/jshint.vim
+	url = https://github.com/wookiehangover/jshint.vim.git
