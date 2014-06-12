@@ -58,3 +58,9 @@ let g:goyo_margin_bottom=2
 
 "Remove Trailing Whitespace on Save
 autocmd BufWritePre * :%s/\s\+$//e
+
+"Airline Theme
+let g:airline_theme='molokai'
+
+"Ctrlp Ignore
+let g:ctrlp_custom_ignore = 'node_modules\'
