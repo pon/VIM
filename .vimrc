@@ -61,6 +61,7 @@ autocmd BufWritePre * :%s/\s\+$//e
 
 "Airline Theme
 let g:airline_theme='molokai'
+let g:airline_powerline_fonts = 1
 
 "Ctrlp Ignore
 let g:ctrlp_custom_ignore = 'node_modules\'
