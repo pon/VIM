@@ -27,6 +27,11 @@ nmap <C-k> :bd<CR>
 "No Swap Files
 set noswapfile
 
+"Theme
+set background=dark
+set t_Co=256
+colorscheme smyck
+
 "Tab Width
 set tabstop=2
 set shiftwidth=2
