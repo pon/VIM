@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/peternagel/workspace/temp/send_redsson_jobs'
+let g:netrw_dirhist_2='/Users/peternagel/workspace/temp'
+let g:netrw_dirhist_3='/Users/peternagel/workspace/lob/lob-api/db/migrations'
+let g:netrw_dirhist_4='/Users/peternagel/workspace/pon/kappa/lib'
+let g:netrw_dirhist_5='/Users/peternagel/workspace/lob/lob-api/db/migrations'
+let g:netrw_dirhist_6='/Users/peternagel/workspace/MAMP/lob/application/controllers'
+let g:netrw_dirhist_7='/Users/peternagel/workspace/lob/lob-api/db/migrations'
+let g:netrw_dirhist_8='/Users/peternagel/workspace/lob/lob-api/src/routes'
